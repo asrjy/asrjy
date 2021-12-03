@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning and Data Analysis**
 
-- 📫 How to reach me **yashwanth.alakky@gmail.com**
+- 📫 How to reach me **yashwanth@asrjy.com**
 
 - 📄 Know more about me [Resume](https://drive.google.com/file/d/10c_ZZLpKdZchRM4ZZrl5Y3O5M5GOltz-/view?usp=sharing)
 <!--
