@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yashwanth</h1>
 <h3 align="left">A Machine Learning Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asrjy&label=Profile%20views&color=0e75b6&style=flat" alt="asrjy" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrjy&label=Profile%20views&color=0e75b6&style=flat" alt="asrjy" /> </p> -->
 
 - 🧑‍ I currently work at Zodhya where I use Deep Reinforcement Learning to solve Optimization Prolems. 
 
