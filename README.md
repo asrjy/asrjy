@@ -7,8 +7,6 @@
 
 - 💬 My interests are Computer Vision, TinyML and Reinforcement Learning
 
-- 📫 How to reach me **yashwanth@asrjy.com**
-
 <!--
 2
 ​
