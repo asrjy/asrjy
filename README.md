@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrjy&label=Profile%20views&color=0e75b6&style=flat" alt="asrjy" /> </p> -->
 
-- 🧑‍ I currently work at Zodhya where I use Deep Reinforcement Learning to solve Optimization Prolems. 
+- 🧑‍ I currently work at Zodhya
 
 - 💬 My interests are Computer Vision, TinyML and Reinforcement Learning
 
