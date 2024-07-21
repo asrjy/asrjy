@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrjy&label=Profile%20views&color=0e75b6&style=flat" alt="asrjy" /> </p> -->
 - 🧠 I'm a Machine Learning Engineer from India
 - 🧑‍ I currently work at Zodhya
-- 💬 I'm working on Deep Reinforcement Learning, building Retrieval-Augmented Generation solutions, Embedded Machine Learning, and optimizing energy consumption systems using AI
+- 💬 I'm working on Deep Reinforcement Learning, building RAG solutions and Embedded Machine Learning
 - 🗯️ I'm interested in  Computer Vision and TinyML
 
 <!--
