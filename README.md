@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Yashwanth</h1>
+<!-- <h1 align="left">Hi 👋, I'm Yashwanth</h1>
 <h3 align="left"></h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrjy&label=Profile%20views&color=0e75b6&style=flat" alt="asrjy" /> </p> -->
-- 🧠 I'm a Machine Learning Engineer from India
-- 🧑‍ I currently work at Zodhya where I optimize industrial HVAC systems using AI
-- 💬 I'm working on Deep Reinforcement Learning, building RAG solutions and Embedded Machine Learning
-- 🗯️ I'm interested in  Computer Vision and TinyML
+<!--- 🧠 I'm a Machine Learning Engineer from India
+<!--- 🧑‍ I currently work at Zodhya where I optimize industrial HVAC systems using AI
+<!--- 💬 I'm working on Deep Reinforcement Learning, building RAG solutions and Embedded Machine Learning
+<!--- 🗯️ I'm interested in  Computer Vision and TinyML -->
 
 <!--
 2
